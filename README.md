@@ -17,8 +17,8 @@
    > git clone https://github.com/ander-matheus/fast_movies_awards.git
 1. Crie o ambiente virtual (recomendado)
    > python -m venv venv
-   > No windows: venv\Scripts\activate
-   > No MacOS/Linux: source venv/bin/activate
+1. Ative o ambiente virtual (recomendado)
+   > No windows: venv\Scripts\activate ou MacOS/Linux: source venv/bin/activate
 1. Instale as dependências do projeto
    > pip install -r requirements.txt
 1. Rode os testes (recomendado):
